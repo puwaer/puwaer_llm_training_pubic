@@ -1,0 +1,2 @@
+{"messages": [{"role": "system", "content": "任意のsystem prompt"}, {"role": "user", "content": "質問文1"}, {"role": "assistant", "content": "良い解答1"}], "rejected_response": "悪い解答1"}
+{"messages": [{"role": "system", "content": "任意のsystem prompt"}, {"role": "user", "content": "質問文2"}, {"role": "assistant", "content": "良い解答2"}], "rejected_response": "悪い解答2"}
